@@ -1432,9 +1432,9 @@ PRODUCT_PACKAGES += \
     IWlanService \
     SoterService \
     TimeService \
-    PowerOffAlarm \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
+    PowerOffAlarm \
     QtiTelephony \
     QtiTelephonyService \
     atfwd \
